@@ -1,0 +1,29 @@
+body{
+    background-color: green;
+}
+.div-principal{
+    background-color: white;
+    margin: 15rem;
+    margin-left: 55rem;
+    height: 45rem;
+    width: 35rem;
+    border-radius: 2%;
+}
+.icon-one{
+    font-size: 8rem;
+    display: flex;
+    justify-content: start;
+}
+.icon-two{
+    transform:rotate(180deg);
+    -webkit-transform:rotate(180deg);
+    font-size: 8rem;
+    display: flex;
+    justify-content: start;
+    margin-right: 1rem;
+}
+.number{
+    font-size: 10rem;
+    display: flex;
+    justify-content: center;
+}
